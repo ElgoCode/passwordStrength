@@ -1,0 +1,1 @@
+# a programm to cheack the password strength
